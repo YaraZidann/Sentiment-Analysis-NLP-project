@@ -1,6 +1,5 @@
 # Sentiment-Analysis-NLP-project
 
-# Sentiment-Analysis-NLP
 Preprocessing Steps
 1. Convert to lowercase: Standardizes the text for consistency.
 2. Remove punctuation and numbers: Simplifies the text to contain only words.
