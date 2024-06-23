@@ -36,4 +36,5 @@ Results :
 The analysis demonstrated that Logistic Regression provided the most reliable results in sentiment classification of movie reviews with Bag of Words slightly enhancing model accuracy. Future work could explore more advanced preprocessing techniques or hybrid models to further optimize performance.
 
 
-
+DATA LINK:
+https://www.cs.cornell.edu/people/pabo/movie-review-data/
